@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatticePath", "LatticePath\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogDemo", "LogDemo\LogDemo.csproj", "{37EF0B3D-3566-440D-BEC4-B5BD7CEF43FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{1E8316CE-81A7-46F1-A909-72D278D7ECAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{180A072A-355B-4E51-82F4-B718C4037CBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{37EF0B3D-3566-440D-BEC4-B5BD7CEF43FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37EF0B3D-3566-440D-BEC4-B5BD7CEF43FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37EF0B3D-3566-440D-BEC4-B5BD7CEF43FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8316CE-81A7-46F1-A909-72D278D7ECAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8316CE-81A7-46F1-A909-72D278D7ECAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8316CE-81A7-46F1-A909-72D278D7ECAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8316CE-81A7-46F1-A909-72D278D7ECAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180A072A-355B-4E51-82F4-B718C4037CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180A072A-355B-4E51-82F4-B718C4037CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180A072A-355B-4E51-82F4-B718C4037CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180A072A-355B-4E51-82F4-B718C4037CBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
